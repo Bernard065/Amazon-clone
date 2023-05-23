@@ -3,7 +3,7 @@ import Header from './components/header/Header'
 
 const App = () => {
   return (
-    <div>
+    <div className='font-bodyFont'>
       <Header />
     </div>
   )
