@@ -7,7 +7,7 @@ const FooterBottom = () => {
         <div className='max-w-5xl mx-auto'>
             <div className='w-full grid grid-cols-7 gap-3 place-content-center text-gray-400'>
                 {footerItems.map((item) => (
-                    <div className='group' key={item.id}>
+                    <div key={item.id} className='group'>
                         <h3 className='footerBottomTitle'>{item.title}</h3>
                         <p className='footerBottomText'>{item.des}</p>
                     </div>
