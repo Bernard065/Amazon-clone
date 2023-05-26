@@ -1,4 +1,6 @@
 import React from 'react'
+import { logo } from '../../assets'
+import { bdFlag } from '../../assets'
 
 const FooterMiddle = () => {
   return (
@@ -51,6 +53,18 @@ const FooterMiddle = () => {
                         </ul>
                     </div>
                 </div>
+            </div>
+        </div>
+        <div className='w-full flex gap-6 items-center justify-center py-6'>
+            <div>
+                <img className='w-20 pt-3' src={logo} alt='logo' />
+            </div>
+            <div>
+                <p className='flex gap-1 items-center justify-center border border-gray-500 hover:border-amazon_yellow cursor-pointer duration-200 px-2 py-1'>English</p>
+            </div>
+            <div className='flex gap-1 border border-gray-500 px-2 py-1 items-center justify-center hover:border-amazon_yellow cursor-pointer duration-200 '>
+                <img className='w-6' src={bdFlag} alt='bdFlag' />
+                <p>United States</p>
             </div>
         </div>
     </div>

@@ -28,4 +28,108 @@ export const allItems = [
     {_id: 128, title: "Women's Fashion"},
     
     
-]
+];
+
+
+export const footerItems = [
+    {
+        _id: 1102, 
+        title: 'Amazon Music',
+        des: 'Stream millions of songs',
+    },
+    {
+        _id: 1103, 
+        title: 'Amazon Global',
+        des: 'Ship Orders Internationally',
+    },
+    {
+        _id: 1104, 
+        title: 'ComiXology',
+        des: 'Thousands of Digital Comics',
+    },
+    {
+        _id: 1105, 
+        title: 'Prime Video Direct',
+        des: 'Video Distribution Made Easy',
+    },
+    {
+        _id: 1106, 
+        title: 'Amazon Advertising',
+        des: 'Find, attract, and engage customers',
+    },
+    {
+        _id: 1107, 
+        title: 'Home Services',
+        des: 'Experienced Pros Happiness Guarantee',
+    },
+    {
+        _id: 1108, 
+        title: 'DPReview',
+        des: 'Digital Photography',
+    },
+    {
+        _id: 1109, 
+        title: 'Shopbop',
+        des: 'Designer Fashion Brands	',
+    },
+    {
+        _id: 1110, 
+        title: '6pm',
+        des: 'Score deals on fashion brands',
+    },
+    {
+        _id: 1111, 
+        title: 'Amazon Ignite',
+        des: 'Sell your original Digital Educational Resources',
+    },
+    {
+        _id: 1112, 
+        title: 'Fabric',
+        des: 'Sewing, Quilting & Knitting',
+    },
+    {
+        _id: 1113, 
+        title: 'Woot!',
+        des: 'Deals and Shenanigans',
+    },
+    {
+        _id: 1114, 
+        title: 'Neighbors App',
+        des: 'Real-Time Crime & Safety Alerts',
+    },
+    {
+        _id: 1115, 
+        title: 'AbeBooks',
+        des: 'Books, art & collectibles',
+    },
+    {
+        _id: 1116, 
+        title: 'Amazon Web Services',
+        des: 'Scalable Cloud Computing Services',
+    },
+    {
+        _id: 1117, 
+        title: 'Goodreads',
+        des: 'Book reviews & recommendations',
+    },
+    {
+        _id: 1118, 
+        title: 'Zappos',
+        des: 'Shoes & Clothing',
+    },
+    {
+        _id: 1119, 
+        title: 'Amazon Subscription Boxes',
+        des: 'Top subscription boxes – right to your door',
+    },
+    {
+        _id: 1120, 
+        title: 'ACX',
+        des: 'Audiobook Publishing Made Easy',
+    },
+    {
+        _id: 1121, 
+        title: 'Audible',
+        des: 'Listen to Books & Original Audio Performances',
+    },
+];
